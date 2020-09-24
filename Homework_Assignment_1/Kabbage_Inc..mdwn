@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+# Kabbage Inc #
+#### Aidan Dowdle ####
+
+## Overview and Origin ##
+
+Kabbage is a technology company that provides small business with credit lines, efficient payment 
+processing solutions and cash flow and data analysis tools.  Kabbage targets small businesses with 
+up to US$250,000 in credit and differentiates itself by providing quick approvals versus more 
+traditional financial institutions that can take several weeks, if not months, to process and approve facilities.      
+
+Rob Frohwein, Marc Gorline, and Kathryn Petralia founded Kabbage in 2009.  The founders all have 
+established background in the FinTech industry and started Kabbage based on their recognition of 
+this underserved market segment.  Mr. Frohwein was the CEO of LAVA group, an intellectual property 
+and technology investment bank.  Mr. Borline is an entrepreneur who has co-founded other startups 
+including Pretty Good Privacy (PGP) and the VerticalOne Corporation.  Ms. Petralia has served in 
+executive strategy positions at CompuCredit and Revolution Money.   Kabbage has secured over US$2.5B 
+in funding in over 16 rounds including from industry giants like Softbank’s Vision Fund.  Very recently 
+Kabbage have been acquired by American Express for an undisclosed amount.
+
+## Business Activities ##
+
+The concept for Kabbage is to originate and securitize loans to small businesses.  There are 28 
+million small businesses in the US and 40% of these businesses seek funding every year, and 
+only a slim majority of them will be approved.  There are several driving factors for this gap.   
+The cost to issue a US$5k loan is the same cost associated with a US$5mln loan.  Therefore, the
+cost-profits associated with granting a small loan are not worth it for larger lenders.  
+Additionally, there is a general a longer processing time at larger institution as systems can be 
+very manual and traditional credit checks can take a long time.  Kabbage differentiates itself by 
+providing easy access to credit and customers take only 5 minutes to apply, get approval and 
+access their credit line.  Kabbage has developed cost efficient machine learning and automation 
+technology that enable it to analyze this risk and also streamline payment processing.
+
+Kabbage feels that credit checks and other associated traditional qualification tools are 
+outdated.  Instead, Kabbage look primarily at business cash flow and requires access to a 
+company’s business bank account and other relevant data channels such as Amazon or PayPal.  
+Kabbage runs this information through its algorithm to determine the appropriate eligibility 
+rate and fees.  Importantly, there is no human approval required as Kabbage relies solely on its 
+system.   While Kabbage also runs credit scores, this usually is a one-off and is not necessarily a 
+primary consideration in granting loans.
+
+Kabbage has developed a few adjacent products that complement its core business.  Kabbage 
+has developed payment processing technology that makes it easier for customers issue invoices 
+and send pay links to customers.  Kabbage allows a small business to link its existing checking 
+accounts and generate customizable invoices.  Kabbage also creates a custom pay links so 
+business can create a unique URL to accept payments online.  Customers can share this link via 
+text, email and the web.  Kabbage also assists customers and uses their data to provide insights 
+and expertise.  The easy to use platform allows a user to see all of their accounts, understand 
+the data inputs, forecast cash flow so businesses can forecast better and make better decisions.  
+
+In order to further expedite customer access to their loans, Kabbage stands out from other 
+lenders by issuing a checking card.  Instead of users requesting funds to their bank accounts 
+which can take 1-3 days to process, the Kabbage Card allows users to pay for expenses 
+immediately which draw down on the existing established credit line.  This allows small 
+business owners the flexibility to pay for unexpected expenses at point of sale terminals, for 
+example.  Kabbage also recently has expanded into more traditional banking by offering 
+checking accounts that more seamlessly interact with it’s other product offerings and offer competitive rates. 
+competitive rates. 
+
+Kababge uses a several different technologies based on it’s various offerings.  For application 
+and data services it uses programs like Apache, AngularJS  and jQuery.  Kabbage uses JQuery UI 
+to build a more interactive interactions on its user platforms. 
+
+Kababge uses software Google Analytics, Piwik (now Matomo), and Crazy Egg among others to 
+track and understand how customers are using it’s websites and app.  Kabbage places a lot of 
+emphasis on the ease and quality of it’s user experience and uses Twillo SendGrid to create, 
+execute and analyze communication strategies across its channels.
+
+Kabbage uses cloud services from Amazon and Google and in total Kabbage uses over 70 
+different technology programs and also has developed its own technology and methods with 10 
+patents and 17 trademarks.
+
+## Landscape ##
+
+Kabbage competes in the financial services industry specifically targeting the lending markets 
+for small businesses.  Over the last several years there have been several factors that have 
+provided an opening for organizations like Kabbage to disrupt the lending markets.  
+Importantly, a low interest environment have shrunk margins for large institutional lenders 
+reducing profit margins on small business loans.  
+
+Innovation and rules-based tools to automate processes and decisions have been an 
+accelerating trend in an effort to reduce the costs associated with lending.  Instead of collecting 
+a large amount of data and manually inputting various data points like financial statements into 
+a system, the disruptors are automatically connecting more relevant data from active sources.  
+Traditional organizations have also been reluctant to rely on loan approvals solely based on a 
+quantitative model.  These algorithms are becoming more and are getting more complex. 
+There is a lot of competition in this space both from traditional lending institutions but also 
+from other similar innovative companies that have different business offerings and models.  
+From the banking sector, Kabbage is competing with business banking groups that primarily 
+service customers in a branch network.  Kabbage is experiencing more direct competition from 
+FinTech start-ups like BlueVine, OnDeck, Fundbox and Street Shares among many others.  
+
+## Results ##
+
+It is important to note that while Kabbage does have a lot of like for like competition, Kabbage 
+has been able to differentiate itself from its peers by having a very fast, easy application 
+process and developing a reputation for being extremely convenient.  As Kabbage has further 
+developed offerings, it has been able to provide numerous solutions for its customers so that 
+these organizations are more likely to continue using it’s products.
+
+There are a few metrics that Kabbage uses to measure its performance.  Kabbage looks at the 
+number of customers it has, the amount and size of its loans, and tracks user interactions on its 
+platforms.  Kababge has grown significantly over the last 10 yeas and as of end of 3rd quarter 
+2019 counts over 200,000 customers.  Significantly, Kabbage added 42,000 new customers in 
+the first 3 quarters of 2019 surpassing the 37,000 new customers added in all of 2018.  Kabbage 
+was on track to provide customers more than US$2.8bln worth of credit in 2019.  Kabbage’s 
+counts more than 75% of its total loans from return customers which shows the sustainability 
+of Kabbage’s business model as a long-term value add.   
+
+The business impact of Kabbage and this industry at large has been significant.  By allowing 
+small businesses that have not usually had easy access to funding, organizations have been 
+more likely to grow and expand their business models which has promoted growth in the 
+economy at large.  
+
+COVID-19 dramatically, if not temporarily, altered the landscape for Kabbage as the probability 
+of default raised significantly and there was a widely expected contraction in its customer base.  
+However, Kabbage was able to leverage its technology and became the second largest lender in 
+the governments Paycheck Protection Program as part of the US COVID relief program.   
+Kabbage has processed more than US$7bln in PPP loans serving almost 300,000 small business 
+and by its calculation has saved 945,000 jobs.
+
+## Recommendations ##
+
+Kabbage has a few areas that it could expand into.  Kabbage currently offers loans shorter than 
+18 months but could start expanding and capture slightly larger businesses that require more 
+capital and want longer repayment periods.  This could open a different market segment at 
+relatively little cost as it’s existing tech may be able to be applied to these new customers at 
+smaller costs.    
+
+Very recently, Kabbage has been acquired by American Express.  This goes to show you the 
+value of the tech that Kabbage has created as Kabbage and it peers have successfully lowered 
+the cost base to provide credit to small businesses.   It also shows you how versatile these Fin 
+Tech companies can be as they are more able to provide dynamic solutions that can adapt to 
+quickly changing external environments.
+
+
+
+
+### Sources ###
+1.	https://www.kabbage.com
+2.	https://www.merchantmaverick.com
+3.	https://edgardunn.com/2017/09/interview-rob-frohwein-ceo-kabbage/
+4.	https://www.businesswire.com/news/home/20200817005350/en/American-Express-to-Acquire-Kabbage
+5.	https://techcrunch.com/2020/08/17/amex-acquires-softbank-backed-kabbage-after-tough-2020-for-the-smb-lender/
+6.	https://www.americanbanker.com/news/why-amex-is-buying-kabbage
+7.	https://www.moodysanalytics.com/risk-perspectives-magazine/convergence-risk-finance-accounting-cecl/principles-and-practices/future-of-small-business-lending
+8.	https://www.cnbc.com/2020/06/17/kabbage-turned-to-doling-out-ppp-loans-to-save-its-lending-business.html
+9.	https://stackshare.io/kabbage_2/kabbage
+10.	https://patents.justia.com/assignee/kabbage-inc
+11.	https://sendgrid.com/blog/ahoy-twilio-sendgrid/
+
+
+
+
+

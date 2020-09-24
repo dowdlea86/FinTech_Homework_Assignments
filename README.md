@@ -1,2 +1,1 @@
-# Homework
-Homework Assignments for FinTech
+Uploaded Completed Homework FinTech Assignment with Jpeg folders
