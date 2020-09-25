@@ -1,11 +1,10 @@
-
-
-
+![Image of Kabbage](../Images/kabbage_logo_horizontal-1.jpg)
 
 
 
 
 # Kabbage Inc #
+
 #### Aidan Dowdle ####
 
 ## Overview and Origin ##
@@ -82,17 +81,15 @@ Kabbage competes in the financial services industry specifically targeting the l
 for small businesses.  Over the last several years there have been several factors that have 
 provided an opening for organizations like Kabbage to disrupt the lending markets.  
 Importantly, a low interest environment have shrunk margins for large institutional lenders 
-reducing profit margins on small business loans.  
-
-Innovation and rules-based tools to automate processes and decisions have been an 
+reducing profit margins on small business loans.  Innovation and rules-based tools to automate processes and decisions have been an 
 accelerating trend in an effort to reduce the costs associated with lending.  Instead of collecting 
 a large amount of data and manually inputting various data points like financial statements into 
 a system, the disruptors are automatically connecting more relevant data from active sources.  
+
 Traditional organizations have also been reluctant to rely on loan approvals solely based on a 
 quantitative model.  These algorithms are becoming more and are getting more complex. 
 There is a lot of competition in this space both from traditional lending institutions but also 
-from other similar innovative companies that have different business offerings and models.  
-From the banking sector, Kabbage is competing with business banking groups that primarily 
+from other similar innovative companies that have different business offerings and models.   From the banking sector, Kabbage is competing with business banking groups that primarily 
 service customers in a branch network.  Kabbage is experiencing more direct competition from 
 FinTech start-ups like BlueVine, OnDeck, Fundbox and Street Shares among many others.  
 
